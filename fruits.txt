@@ -2,5 +2,5 @@ apple
 pear
 plum
 lime
-orange
-melon
+orange - grape
+melon - banana
