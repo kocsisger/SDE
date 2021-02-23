@@ -4,3 +4,4 @@ plum
 lime
 orange - grape
 melon - banana
+strawberry
